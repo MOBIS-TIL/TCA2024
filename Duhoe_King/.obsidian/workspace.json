@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6084246febf3cb6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5482a63121dff596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49817bd91dbd9b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter_정리/플러터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4498d67c64ad9c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6de696e91977a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5782d0132f5aeec9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5445ae1bb034e116",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29c7c07fd2f8829a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e02dcc10e3fec64",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a95abfebfce295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340be10561ed2f84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flutter_정리/플러터.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ce8b027d9710037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flutter_정리/플러터.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e986613fb92efb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d647ae3bb8c2cc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flutter_정리/플러터.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "49817bd91dbd9b04",
+  "lastOpenFiles": [
+    "2024-02-22.md",
+    "2024-03-04.md",
+    "플러터.md",
+    "Flutter_정리/플러터.md",
+    "Flutter_정리/크로스플랫폼.md",
+    "Flutter_정리/아이오닉.md",
+    "Flutter_정리/네이티브.md",
+    "Flutter_정리/Pasted image 20240222221613.png",
+    "Pasted image 20240222221613.png",
+    "크로스플랫폼.md",
+    "아이오닉.md",
+    "네이티브.md",
+    "Flutter_정리/플러터_정리.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
