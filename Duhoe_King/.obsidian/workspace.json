@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d01e71211de3321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter_정리/etc/SDK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1103dcf282b44ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter_정리/플러터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,16 +171,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "49817bd91dbd9b04",
+  "active": "1103dcf282b44ab5",
   "lastOpenFiles": [
+    "Flutter_정리/etc/SDK.md",
+    "Flutter_정리/플러터.md",
+    "Flutter_정리/etc/네이티브.md",
+    "Flutter_정리/etc/아이오닉.md",
+    "Flutter_정리/etc",
+    "잡다_정리",
     "2024-02-22.md",
     "2024-03-04.md",
     "플러터.md",
-    "Flutter_정리/플러터.md",
-    "Flutter_정리/크로스플랫폼.md",
-    "Flutter_정리/아이오닉.md",
-    "Flutter_정리/네이티브.md",
-    "Flutter_정리/Pasted image 20240222221613.png",
+    "Flutter_정리/etc/크로스플랫폼.md",
+    "Flutter_정리/etc/Pasted image 20240222221613.png",
     "Pasted image 20240222221613.png",
     "크로스플랫폼.md",
     "아이오닉.md",
