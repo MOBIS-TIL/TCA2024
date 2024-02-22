@@ -6,17 +6,37 @@
       {
         "id": "5482a63121dff596",
         "type": "tabs",
+        "dimension": 66.56091370558376,
         "children": [
           {
-            "id": "49817bd91dbd9b04",
+            "id": "cc1d9214aef465e1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter_정리/플러터.md",
+                "file": "Flutter/플러터.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7876fe7542facbc",
+        "type": "tabs",
+        "dimension": 33.43908629441624,
+        "children": [
+          {
+            "id": "a0f4041b9e4b7f1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter_정리/플러터.md",
+                "file": "Flutter/플러터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter_정리/플러터.md",
+                "file": "Flutter/플러터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter_정리/플러터.md"
+                "file": "Flutter/플러터.md"
               }
             }
           }
@@ -146,22 +166,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "49817bd91dbd9b04",
+  "active": "cc1d9214aef465e1",
   "lastOpenFiles": [
-    "2024-02-22.md",
-    "2024-03-04.md",
-    "플러터.md",
+    "etc/Pasted image 20240222221613.png",
+    "Flutter/플러터.md",
+    "Daily/2024-02-22.md",
+    "etc/SDK.md",
+    "etc/크로스플랫폼.md",
+    "etc/아이오닉.md",
+    "etc/리액트 네이티브.md",
+    "etc/테스트.md",
+    "etc/테스트2.md",
+    "etc/안드로이드 스튜디오.md",
+    "etc/임베더.md",
+    "etc/네이티브.md",
+    "etc/스키아.md",
+    "etc/다트.md",
     "Flutter_정리/플러터.md",
-    "Flutter_정리/크로스플랫폼.md",
-    "Flutter_정리/아이오닉.md",
-    "Flutter_정리/네이티브.md",
-    "Flutter_정리/Pasted image 20240222221613.png",
-    "Pasted image 20240222221613.png",
-    "크로스플랫폼.md",
-    "아이오닉.md",
-    "네이티브.md",
-    "Flutter_정리/플러터_정리.md",
-    "create a link.md",
-    "Welcome.md"
+    "Daily",
+    "etc",
+    "Flutter",
+    "데일리",
+    "Flutter_정리/etc/안드로이드 스튜디오.md",
+    "Flutter_정리/etc/스키아.md",
+    "Flutter_정리/etc/임베더.md",
+    "Flutter_정리/etc/크로스플랫폼.md",
+    "푸크시아.md",
+    "Flutter_정리/etc/네이티브.md",
+    "Flutter_정리/etc/링크테스트.md",
+    "Flutter_정리/etc/SDK.md",
+    "Flutter_정리/etc/아이오닉.md",
+    "Flutter_정리/etc",
+    "잡다_정리",
+    "데일리/2024-02-22.md",
+    "2024-03-04.md",
+    "Flutter_정리/etc/Pasted image 20240222221613.png",
+    "Pasted image 20240222221613.png"
   ]
 }
