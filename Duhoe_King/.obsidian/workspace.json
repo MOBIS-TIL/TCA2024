@@ -6,6 +6,7 @@
       {
         "id": "5482a63121dff596",
         "type": "tabs",
+        "dimension": 66.56091370558376,
         "children": [
           {
             "id": "cc1d9214aef465e1",
@@ -18,6 +19,23 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7876fe7542facbc",
+        "type": "tabs",
+        "dimension": 33.43908629441624,
+        "children": [
+          {
+            "id": "a0f4041b9e4b7f1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
               "pinned": true
             }
           }
@@ -87,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/플러터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/플러터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Flutter/플러터.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,19 +162,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5782d0132f5aeec9",
+  "active": "a0f4041b9e4b7f1a",
   "lastOpenFiles": [
-    "Flutter/플러터.md",
-    "etc/크로스플랫폼.md",
-    "Flutter_정리/플러터.md",
     "Daily/2024-02-22.md",
-    "Daily",
-    "etc/임베더.md",
-    "etc/안드로이드 스튜디오.md",
-    "etc/아이오닉.md",
-    "etc/스키아.md",
-    "etc/네이티브.md",
+    "Flutter/플러터.md",
     "etc/SDK.md",
+    "etc/크로스플랫폼.md",
+    "etc/아이오닉.md",
+    "etc/리액트 네이티브.md",
+    "etc/테스트.md",
+    "etc/테스트2.md",
+    "etc/안드로이드 스튜디오.md",
+    "etc/임베더.md",
+    "etc/네이티브.md",
+    "etc/스키아.md",
+    "etc/다트.md",
+    "Flutter_정리/플러터.md",
+    "Daily",
     "etc/Pasted image 20240222221613.png",
     "etc",
     "Flutter",
@@ -180,10 +198,6 @@
     "2024-03-04.md",
     "플러터.md",
     "Flutter_정리/etc/Pasted image 20240222221613.png",
-    "Pasted image 20240222221613.png",
-    "크로스플랫폼.md",
-    "아이오닉.md",
-    "네이티브.md",
-    "Flutter_정리/플러터_정리.md"
+    "Pasted image 20240222221613.png"
   ]
 }
