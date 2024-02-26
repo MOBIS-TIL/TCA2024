@@ -6,7 +6,7 @@
       {
         "id": "5482a63121dff596",
         "type": "tabs",
-        "dimension": 66.56091370558376,
+        "dimension": 58.235294117647065,
         "children": [
           {
             "id": "cc1d9214aef465e1",
@@ -21,13 +21,26 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c8cedf6d7ecd30e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b7876fe7542facbc",
         "type": "tabs",
-        "dimension": 33.43908629441624,
+        "dimension": 41.76470588235294,
         "children": [
           {
             "id": "a0f4041b9e4b7f1a",
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/플러터.md",
+                "file": "Daily/2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/플러터.md",
+                "file": "Daily/2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/플러터.md"
+                "file": "Daily/2024-02-26.md"
               }
             }
           }
@@ -166,37 +179,37 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cc1d9214aef465e1",
+  "active": "c8cedf6d7ecd30e4",
   "lastOpenFiles": [
-    "Flutter/project_files/flutter_lab/flutter_lab.iml",
-    "Flutter/project_files/flutter_lab/ios/Runner/GeneratedPluginRegistrant.m",
-    "Flutter/project_files/flutter_lab/ios/Runner/GeneratedPluginRegistrant.h",
-    "Flutter/project_files/flutter_lab/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java",
-    "Flutter/project_files/flutter_lab/android/app/src/main/java/io/flutter/plugins",
-    "Flutter/project_files/flutter_lab/android/app/src/main/java/io/flutter",
-    "Flutter/project_files/flutter_lab/android/app/src/main/java/io",
-    "Flutter/project_files/flutter_lab/android/app/src/main/java",
-    "Flutter/project_files/flutter_lab/ios/Flutter/flutter_export_environment.sh",
-    "Flutter/project_files/flutter_lab/ios/Flutter/Generated.xcconfig",
-    "Flutter/project_files/flutter_lab/pubspec.lock",
+    "Daily/2024-02-22.md",
+    "Daily/2024-02-26.md",
+    "Flutter/플러터.md",
+    "etc/크로스플랫폼.md",
+    "Flutter/project_files/flutter_lab/test/widget_test.dart",
+    "Flutter/project_files/flutter_lab/test",
+    "Flutter/project_files/flutter_lab/lib/main.dart",
+    "Flutter/project_files/flutter_lab/lib",
+    "Flutter/project_files/flutter_lab/ios/RunnerTests/RunnerTests.swift",
+    "Flutter/project_files/flutter_lab/ios/RunnerTests",
+    "Flutter/project_files/flutter_lab/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
+    "Flutter/project_files/flutter_lab/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "Flutter/project_files/flutter_lab/ios/Runner.xcworkspace/xcshareddata",
+    "Flutter/project_files/flutter_lab/ios/Runner.xcworkspace/contents.xcworkspacedata",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
     "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png",
     "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
     "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png",
     "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png",
     "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png",
     "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png",
-    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png",
-    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png",
-    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png",
-    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png",
-    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png",
     "Flutter/project_files/flutter_lab/README.md",
     "Flutter/project_files/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
     "Flutter/project_files/README.md",
-    "Flutter/플러터.md",
-    "Daily/2024-02-22.md",
     "etc/SDK.md",
-    "etc/크로스플랫폼.md",
     "etc/아이오닉.md",
     "etc/리액트 네이티브.md",
     "etc/테스트.md",
