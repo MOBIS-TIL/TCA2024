@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "6084246febf3cb6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5482a63121dff596",
+        "type": "tabs",
+        "dimension": 58.235294117647065,
+        "children": [
+          {
+            "id": "cc1d9214aef465e1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/플러터.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c8cedf6d7ecd30e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b7876fe7542facbc",
+        "type": "tabs",
+        "dimension": 41.76470588235294,
+        "children": [
+          {
+            "id": "a0f4041b9e4b7f1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4498d67c64ad9c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6de696e91977a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5782d0132f5aeec9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5445ae1bb034e116",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29c7c07fd2f8829a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e02dcc10e3fec64",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a95abfebfce295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340be10561ed2f84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024-02-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ce8b027d9710037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024-02-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e986613fb92efb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d647ae3bb8c2cc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024-02-26.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c8cedf6d7ecd30e4",
+  "lastOpenFiles": [
+    "Daily/2024-02-22.md",
+    "Daily/2024-02-26.md",
+    "Flutter/플러터.md",
+    "etc/크로스플랫폼.md",
+    "Flutter/project_files/flutter_lab/test/widget_test.dart",
+    "Flutter/project_files/flutter_lab/test",
+    "Flutter/project_files/flutter_lab/lib/main.dart",
+    "Flutter/project_files/flutter_lab/lib",
+    "Flutter/project_files/flutter_lab/ios/RunnerTests/RunnerTests.swift",
+    "Flutter/project_files/flutter_lab/ios/RunnerTests",
+    "Flutter/project_files/flutter_lab/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
+    "Flutter/project_files/flutter_lab/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "Flutter/project_files/flutter_lab/ios/Runner.xcworkspace/xcshareddata",
+    "Flutter/project_files/flutter_lab/ios/Runner.xcworkspace/contents.xcworkspacedata",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png",
+    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png",
+    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png",
+    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png",
+    "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png",
+    "Flutter/project_files/flutter_lab/README.md",
+    "Flutter/project_files/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "Flutter/project_files/README.md",
+    "etc/SDK.md",
+    "etc/아이오닉.md",
+    "etc/리액트 네이티브.md",
+    "etc/테스트.md",
+    "etc/테스트2.md",
+    "etc/안드로이드 스튜디오.md",
+    "etc/임베더.md",
+    "etc/네이티브.md",
+    "etc/스키아.md",
+    "etc/다트.md",
+    "Flutter_정리/플러터.md",
+    "Flutter_정리/etc/안드로이드 스튜디오.md",
+    "Flutter_정리/etc/스키아.md",
+    "Flutter_정리/etc/임베더.md",
+    "Flutter_정리/etc/크로스플랫폼.md",
+    "푸크시아.md",
+    "Flutter_정리/etc/네이티브.md",
+    "Flutter_정리/etc/링크테스트.md"
+  ]
+}
