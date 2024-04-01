@@ -21,33 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1744c1385d19656b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily&Goals/2024-03-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "201bf113050b6097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily&Goals/3월목표.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b7876fe7542facbc",
@@ -130,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily&Goals/3월목표.md",
+                "file": "Flutter/플러터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily&Goals/3월목표.md",
+                "file": "Flutter/플러터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily&Goals/3월목표.md"
+                "file": "Flutter/플러터.md"
               }
             }
           }
@@ -191,11 +166,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "201bf113050b6097",
+  "active": "cc1d9214aef465e1",
   "lastOpenFiles": [
+    "Daily&Goals/2024-04-01.md",
     "Daily&Goals/2024-03-21.md",
-    "Daily&Goals/3월목표.md",
     "Flutter/플러터.md",
+    "Flutter/project_files/flutter_lab/build/9f69bbc0",
+    "Flutter/project_files/flutter_lab/build/app/intermediates/flutter/debug/flutter_assets/c6a5a873",
+    "Flutter/project_files/flutter_lab/build/34dad0a516845a7cee387ac9343eabe5/_composite.stamp",
+    "Flutter/project_files/flutter_lab/build/34dad0a516845a7cee387ac9343eabe5/gen_dart_plugin_registrant.stamp",
+    "Flutter/project_files/flutter_lab/build/34dad0a516845a7cee387ac9343eabe5/gen_localizations.stamp",
+    "Flutter/project_files/flutter_lab/build/34dad0a516845a7cee387ac9343eabe5",
+    "Flutter/project_files/flutter_lab/lib/ch2/test.dart",
+    "Flutter/project_files/flutter_lab/lib/ch2",
+    "etc/널 안정성.md",
+    "etc/StateFullWidget.md",
+    "etc/StatelessWidget.md",
+    "etc/attr/Pasted image 20240401203624.png",
+    "Daily&Goals/4월 목표.md",
+    "Daily&Goals/3월목표.md",
     "Daily&Goals/2024-02-26.md",
     "Daily&Goals/2024-02-22.md",
     "etc/네이티브.md",
@@ -203,14 +192,6 @@
     "etc/아이오닉.md",
     "Flutter/project_files/flutter_lab/build/bcac91c0",
     "Flutter/project_files/flutter_lab/build/cbff2b1535276d602df97b9656722b6e.cache.dill.track.dill",
-    "Flutter/project_files/flutter_lab/build/app/outputs/flutter-apk/app-debug.apk.sha1",
-    "Flutter/project_files/flutter_lab/build/app/outputs/flutter-apk/app-debug.apk",
-    "Flutter/project_files/flutter_lab/build/app/outputs/flutter-apk",
-    "Flutter/project_files/flutter_lab/build/app/intermediates/apk_ide_redirect_file/debug/redirect.txt",
-    "Flutter/project_files/flutter_lab/build/app/intermediates/apk_ide_redirect_file/debug",
-    "Flutter/project_files/flutter_lab/build/app/intermediates/apk_ide_redirect_file",
-    "Flutter/project_files/flutter_lab/build/app/outputs/apk/debug/output-metadata.json",
-    "Flutter/project_files/flutter_lab/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources",
     "etc/스키아.md",
     "etc/attr/Pasted image 20240321212842.png",
     "etc/attr/Pasted image 20240321211439.png",
@@ -222,7 +203,6 @@
     "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
     "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
     "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
-    "Flutter/project_files/flutter_lab/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
     "Flutter/project_files/flutter_lab/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
     "Flutter/project_files/flutter_lab/README.md",
     "Flutter/project_files/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
@@ -233,11 +213,6 @@
     "etc/테스트2.md",
     "etc/안드로이드 스튜디오.md",
     "etc/임베더.md",
-    "etc/다트.md",
-    "Flutter_정리/플러터.md",
-    "Flutter_정리/etc/안드로이드 스튜디오.md",
-    "Flutter_정리/etc/스키아.md",
-    "Flutter_정리/etc/임베더.md",
-    "Flutter_정리/etc/크로스플랫폼.md"
+    "etc/다트.md"
   ]
 }
